@@ -33,4 +33,4 @@ calculator-project/
 - Vanilla JavaScript
 
 ## Live Demo
-🔗 https://farihakarim.github.io/calculator-project/
+🔗 https://farihakarim12.github.io/Glassmorphism-Calculator/
